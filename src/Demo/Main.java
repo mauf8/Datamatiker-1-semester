@@ -9,6 +9,7 @@ public class Main {
                 System.out.println("type your name: ");
                 in.nextLine();
                 System.out.println("It works!");
+                System.out.println("du er sej");
 
             }
 
