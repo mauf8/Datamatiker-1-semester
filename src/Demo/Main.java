@@ -16,6 +16,7 @@ public class Main {
             void Go() {
                 larsjørgen();
                 askage();
+                HelloWorld();
 
             }
 
@@ -24,6 +25,10 @@ public class Main {
                 int yourage = in.nextInt();
                 System.out.println("your age is: " + yourage);
 
+            }
+
+            void HelloWorld() {
+              System.out.println("Hello,mate");
             }
 
 
