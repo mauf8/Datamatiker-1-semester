@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
             Scanner in = new Scanner(System.in);
 
-            public void greet(){
+            public void larsjørgen(){
                 System.out.println("type your name: ");
                 in.nextLine();
                 System.out.println("It works!");
@@ -13,7 +13,7 @@ public class Main {
             }
 
             void Go() {
-                greet();
+                larsjørgen();
                 askage();
 
             }
